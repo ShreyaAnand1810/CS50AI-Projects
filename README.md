@@ -2,7 +2,22 @@
 My submissions for Harvard’s CS50 Introduction to AI with Python course.
 
 ## Projects
-Search (Degrees), Knowledge, Uncertainty, Optimization, Learning, Neural Networks, Language, Capstone/My Versions
-
+- Attention
+- Crossword
+- Heredity
+- Knights
+- Minesweeper
+- Nim
+- Pagerank
+- Parser
+- Shopping
+- Tictactoe
+- Traffic
+  
 ## Tech
-Python, NumPy, pandas, scikit-learn, TensorFlow, NLTK
+- Python
+- NumPy
+- pandas
+- scikit-learn
+- TensorFlow
+- NLTK
